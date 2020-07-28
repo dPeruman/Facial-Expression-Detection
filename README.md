@@ -1,4 +1,4 @@
-# projectcv
+# Facial Expression Detection
 - Facial Expression Detection using openCV and Tensorflow (Keras)
 - This repository Contains the Python Source Code, Documentation and Support files for the Facial Emotion Recognition CNN.
 
